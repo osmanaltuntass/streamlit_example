@@ -5,7 +5,7 @@ import plotly.express as px
 
 # '# Avocado Prices dashboard'
 # st.write('# Avocado Prices dashboard')
-st.title("# Avocado Prices Dashboard")
+st.title("Avocado Prices Dashboard")
 st.markdown('''
 This is a dashboard showing the *average prices* of different types of :avocado:  
 Data source: [Kaggle](https://www.kaggle.com/datasets/timmate/avocado-prices-2020?resource=download&select=avocado-updated-2020.csv)
